@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "kvm-bindings",
+    "kvm-ioctls",
+]
